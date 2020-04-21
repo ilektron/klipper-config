@@ -1,0 +1,4 @@
+G90 ;For Octolapse, tell it that we're starting
+G28 ;Home the axis
+START_PRINT
+
